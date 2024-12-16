@@ -10,7 +10,7 @@
 		"add_user_banned": "Failed to add to the database: You are banned."
 	},
 	"buttons": {
-		"button_my_proficle": "My Profile\uD83D\uDC64",
+		"button_my_profile": "My Profile\uD83D\uDC64",
 		"button_create_profile": "Create Profile\uD83D\uDCDD",
 		"button_change_language": "Change Language\uD83C\uDF0E",
 		"button_support": "Help and Support\uD83C\uDD98"
