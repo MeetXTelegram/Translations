@@ -1,0 +1,12 @@
+{
+	"comment": "NULL",
+
+	"commands": {
+		"command_help": "I am MeetX, a bot that will help you find friends, acquaintances, and possibly more. I provide the ability to search for suitable people through profiles, so feel free to create your own and find\"brothers in mind\" ;)\n\nIf you have any questions:\n@wwwhatisthiss - developer account\n@meetx_discussion - group where you can get help, suggest ideas for improvement or just chat. To improve the quality of the bot, all messages are logged. More information can be found here: https://t.me/meetx_discussion/1",
+		"command_start": "Hey, {}!"
+	},
+	"errors": {
+		"add_user_db_error": "Failed to add to the database: A database error occurred.",
+		"add_user_banned": "Failed to add to the database: You are banned."
+	}
+}
