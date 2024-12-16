@@ -1,0 +1,17 @@
+{
+  "comment": "This is the translation file for MeetX. It will be used by the MLSystem(MultilanguageSystem). It should be located at the path $HOME/.meetx/translations/",
+  "commands": {
+    "command_help": "Я — MeetX, бот, який допоможе тобі знайти друзів, знайомих, а можливо, і більше. Я надаю можливість пошуку підходящих людей через анкети, тож не соромся створювати свою і знаходити \"братів по розуму\" ;)\n\nЯкщо у тебе виникатимуть питання:\n@wwwhatisthiss — акаунт розробника\n@meetx_discussion — група, де ти зможеш отримати допомогу, запропонувати ідеї для покращення чи просто поспілкуватися. Для підвищення якості роботи бота всі повідомлення записуються до журналу. Додаткову інформацію можна знайти тут: https://t.me/meetx_discussion/1",
+    "command_start": "Привіт, {}!"
+  },
+  "errors": {
+    "add_user_db_error": "Не вдалося додати до бази даних: Сталася помилка бази даних.",
+    "add_user_banned": "Не вдалося додати до бази даних: Ви заблоковані."
+  },
+  "buttons": {
+    "button_my_profile": "Мій профіль\uD83D\uDC64",
+    "button_create_profile": "Створити профіль\uD83D\uDCDD",
+    "button_change_language": "Змінити мову\uD83C\uDF0E",
+    "button_support": "Допомога та підтримка\uD83C\uDD98"
+  }
+}

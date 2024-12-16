@@ -1,0 +1,17 @@
+{
+  "comment": "This is the translation file for MeetX. It will be used by the MLSystem(MultilanguageSystem). It should be located at the path $HOME/.meetx/translations/",
+  "commands": {
+    "command_help": "Ich bin MeetX, ein Bot, der dir hilft, Freunde, Bekannte oder vielleicht sogar mehr zu finden. Ich biete dir die Möglichkeit, passende Menschen über Profile zu finden, also zögere nicht, dein eigenes zu erstellen und \"Geistesbrüder\" zu finden ;)\n\nFalls du Fragen hast:\n@wwwhatisthiss — Entwicklerkonto\n@meetx_discussion — Gruppe, in der du Hilfe erhalten, Ideen für Verbesserungen vorschlagen oder einfach chatten kannst. Um die Qualität des Bots zu verbessern, werden alle Nachrichten protokolliert. Weitere Informationen findest du hier: https://t.me/meetx_discussion/1",
+    "command_start": "Hallo, {}!"
+  },
+  "errors": {
+    "add_user_db_error": "Die Hinzufügung zur Datenbank ist fehlgeschlagen: Es ist ein Datenbankfehler aufgetreten.",
+    "add_user_banned": "Die Hinzufügung zur Datenbank ist fehlgeschlagen: Du bist gesperrt."
+  },
+  "buttons": {
+    "button_my_profile": "Mein Profil\uD83D\uDC64",
+    "button_create_profile": "Profil erstellen\uD83D\uDCDD",
+    "button_change_language": "Sprache ändern\uD83C\uDF0E",
+    "button_support": "Hilfe und Support\uD83C\uDD98"
+  }
+}

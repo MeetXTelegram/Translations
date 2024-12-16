@@ -1,0 +1,17 @@
+{
+  "comment": "This is the translation file for MeetX. It will be used by the MLSystem(MultilanguageSystem). It should be located at the path $HOME/.meetx/translations/",
+  "commands": {
+    "command_help": "Olen MeetX, botti, joka auttaa sinua löytämään ystäviä, tuttavia ja ehkä enemmänkin. Annan sinulle mahdollisuuden etsiä sopivia ihmisiä profiilien avulla, joten älä epäröi luoda omaasi ja löytää \"kohtalotovereita\" ;)\n\nJos sinulla on kysyttävää:\n@wwwhatisthiss — kehittäjän tili\n@meetx_discussion — ryhmä, josta voit saada apua, ehdottaa ideoita parannuksiin tai vain keskustella. Laadun parantamiseksi kaikki viestit kirjataan. Lisätietoa löydät täältä: https://t.me/meetx_discussion/1",
+    "command_start": "Hei, {}!"
+  },
+  "errors": {
+    "add_user_db_error": "Tietokantaan lisääminen epäonnistui: Tapahtui tietokantavirhe.",
+    "add_user_banned": "Tietokantaan lisääminen epäonnistui: Olet estetty."
+  },
+  "buttons": {
+    "button_my_profile": "Oma profiili\uD83D\uDC64",
+    "button_create_profile": "Luo profiili\uD83D\uDCDD",
+    "button_change_language": "Vaihda kieli\uD83C\uDF0E",
+    "button_support": "Tuki ja ohjeet\uD83C\uDD98"
+  }
+}
