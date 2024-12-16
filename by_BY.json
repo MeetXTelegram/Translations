@@ -7,5 +7,11 @@
   "errors": {
     "add_user_db_error": "Не ўдалося дадаць у базу дадзеных: Узнікла памылка базы дадзеных.",
     "add_user_banned": "Не ўдалося дадаць у базу дадзеных: Вы забанены."
+  },
+  "buttons": {
+    "button_my_profile": "Мой профіль\uD83D\uDC64",
+    "button_create_profile": "Стварыць профіль\uD83D\uDCDD",
+    "button_change_language": "Змяніць мову\uD83C\uDF0E",
+    "button_support": "Дапамога і падтрымка\uD83C\uDD98"
   }
 }

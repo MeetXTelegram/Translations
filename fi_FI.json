@@ -7,5 +7,11 @@
   "errors": {
     "add_user_db_error": "Tietokantaan lisääminen epäonnistui: Tapahtui tietokantavirhe.",
     "add_user_banned": "Tietokantaan lisääminen epäonnistui: Olet estetty."
+  },
+  "buttons": {
+    "button_my_profile": "Oma profiili\uD83D\uDC64",
+    "button_create_profile": "Luo profiili\uD83D\uDCDD",
+    "button_change_language": "Vaihda kieli\uD83C\uDF0E",
+    "button_support": "Tuki ja ohjeet\uD83C\uDD98"
   }
 }

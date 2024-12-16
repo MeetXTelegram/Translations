@@ -7,5 +7,11 @@
   "errors": {
     "add_user_db_error": "Nie udało się dodać do bazy danych: Wystąpił błąd bazy danych.",
     "add_user_banned": "Nie udało się dodać do bazy danych: Jesteś zbanowany."
+  },
+  "buttons": {
+    "button_my_profile": "Mój profil\uD83D\uDC64",
+    "button_create_profile": "Utwórz profil\uD83D\uDCDD",
+    "button_change_language": "Zmień język\uD83C\uDF0E",
+    "button_support": "Pomoc i wsparcie\uD83C\uDD98"
   }
 }
